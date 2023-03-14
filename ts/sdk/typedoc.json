@@ -1,0 +1,7 @@
+{
+  "out": "./docs",
+  "name": "ics20-devils-snare",
+  "theme": "markdown",
+  "readme": "none",
+  "tsconfig": "./tsconfig.bundle.json"
+}

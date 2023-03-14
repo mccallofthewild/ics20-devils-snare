@@ -1,0 +1,11 @@
+name = "ics20-devils-snare"
+
+[networks.juno]
+chain_id = 'juno-1'
+network_variant = 'Shared'
+grpc_endpoint = 'https://grpc-juno-ia.cosmosia.notional.ventures'
+rpc_endpoint = 'https://rpc-juno-ia.cosmosia.notional.ventures'
+gas_price = '0.025ujuno'
+gas_adjustment = 1.3
+account_prefix = 'juno'
+derivation_path = '''m/44'/118'/0'/0/0'''
